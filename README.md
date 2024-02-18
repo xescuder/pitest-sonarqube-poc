@@ -1,5 +1,10 @@
 # Getting Started
 
+Start Sonarqube executing in a terminal:
+
+```shell
+docker-compose up -d
+```
 
 ## Sonarqube Project Configuration
 
